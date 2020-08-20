@@ -1,0 +1,24 @@
+
+## Task 0 – Installation and theory
+
+Task-0 would be installing OpenCV on your systems and importing the module in python.
+
+The preferred system would be Ubuntu 16.04, but Windows, MacOS or any other OS is also acceptable.
+
+## Task 1 – Input
+
+Your task is to install OpenCV and its dependencies and read your webcam as a video source. Send the python script used and a screenshot of your program running. 
+
+## Task 2 – Thresholding
+
+This task is to experiment with the various thresholding methods of OpenCV and show which one works best for thresholding your hand
+
+## Task 3 – Color Mask
+
+Create a colour mask to detect only red objects in an image. Do the same for a video feed.
+
+## Task 4 – Histogram and Equalization
+
+Plot a histogram for an image based on colours and try equalizing it
+
+## BONUS - Try doing task 4 histogram for the live video stream and see if histogram changes dynamically
